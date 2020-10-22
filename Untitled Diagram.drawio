@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T18:00:21.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="_ZrZjJZtGV6rA4JTUCxe" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-22T18:25:37.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="3jWn8oZt1BfR_eoTYe1j" version="13.8.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1426" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
             <mxPoint x="445" y="337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CXt8hdQB0j-JE1RTXXkN-47" value="FileUploadedIntegrationEvent" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+        <mxCell id="CXt8hdQB0j-JE1RTXXkN-47" value="PdfFileUploadedIntegrationEvent" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="455" y="385" as="sourcePoint" />
             <mxPoint x="725" y="385" as="targetPoint" />
